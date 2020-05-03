@@ -26,6 +26,25 @@ for either the software user interface or hardware dimensions and its specificat
 
 ### Documentation for contributors
 
+This section is about the longevity/prospect of the future development of your project, any documentations to welcome and help onboarding future contributors to the project (i.e a Getting Started guide)
+
 ### Supporting files
 
+This can be presentation slides, explanatory video (walkthrough guide) or instruction manual for how to use your product/prototype. Any other materials that are relevant to the project.
+
+### Open Source License and Creative Commons
+
+You can get your project licensed on GitHub with the following options of different licensing model from Creative Common,
+simply put up the markdown file of the license you choose in the root of your project.
+
+* `BY` – [Attribution](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by.markdown)
+* `BY-NC` – [Attribution-NonCommercial](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-nc.markdown)
+* `BY-NC-ND` – [Attribution-NonCommercial-NoDerivatives](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-nc-nd.markdown)
+* `BY-NC-SA` – [Attribution-NonCommercial-ShareAlike](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-nc-sa.markdown)
+* `BY-ND` – [Attribution-NoDerivatives](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-nd.markdown)
+* `BY-SA` – [Attribution-ShareAlike](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-sa.markdown)
+* `CC0` – [CC0](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/zero.markdown)
+
 ## **Example**
+
+
