@@ -30,7 +30,7 @@ This section is about the longevity/prospect of the future development of your p
 
 ### Supporting files
 
-This can be presentation slides, explanatory video (walkthrough guide) or instruction manual for how to use your product/prototype. Any other materials that are relevant to the project.
+This can be 3D model files, presentation slides, explanatory video (walkthrough guide) or instruction manual for how to use your product/prototype. Any other materials that are relevant to the project in general.
 
 ### Open Source License and Creative Commons
 
@@ -47,4 +47,16 @@ simply put up the markdown file of the license you choose in the root of your pr
 
 ## **Example**
 
+# MedEasy
 
+MedEasy is a mobile clinic solution designed to help managing electronic health records for doctors and physicians who works at the clinic and does field visit at the slum in Cambodia.
+
+This project started out as the phase 4 of an on-going development of the Easymed initiative.Easymed aims to provide a better user experience and boost the productivity and efficiency at medical related informatics in combination of hardware and software.
+
+# How to use this project
+
+This project is structured as follow:
+
+- Report [medeasy-final-report.pdf](https://github.com/sight-hkust/course-project-submission-template/blob/master/medeasy-final-report.pdf)
+- Design files folder
+- Supporting files folder
