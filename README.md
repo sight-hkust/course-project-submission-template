@@ -48,9 +48,9 @@ simply put up the markdown file of the license you choose in the root of your pr
 * `BY-SA` – [Attribution-ShareAlike](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-sa.markdown)
 * `CC0` – [CC0](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/zero.markdown)
 
-# Example
+## Example
 
-## MedEasy
+### MedEasy
 
 MedEasy is a mobile clinic solution designed to help managing electronic health records for doctors and physicians who works at the clinic and does field visit at the slum in Cambodia.
 
